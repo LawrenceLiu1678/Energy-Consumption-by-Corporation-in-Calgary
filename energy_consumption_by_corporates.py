@@ -16,6 +16,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # import JSON file from Socrata's Open Calgary API
+# Contains information licensed under the Open Government Licence – City of Calgary.
 JSON_FILE = "https://data.calgary.ca/resource/crbp-innf.json"
 
 """
